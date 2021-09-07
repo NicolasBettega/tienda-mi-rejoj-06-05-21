@@ -1,0 +1,170 @@
+[
+	{
+	  "prod_id": 1,
+	  "destacado": true,
+	  "categoria": "Sport",
+	  "marca":"nixon",
+	  "sexo":"hombre",
+	  "nombre": "Comp All White",
+	  "imagen": "nixon-sport.jpg",
+	  "alt":" Reloj nixon comp all white",
+	  "descripcion": "Ideal para deportes de agua, tanto por su tamaño ideal para usar bajo un traje de neoprene como su malla de silicona moldeada. <br/> Cuenta con día, fecha, cronómetro y temporizador de cuenta regresiva con función de bloqueo para garantizar la cuenta regresiva",
+	  "caracteristicas":["Movimiento: Mecanismo de cuarzo japonés Miyota", "Malla: Banda flexible de silicona moldeada a medida", "Cierre de seguridad patentado para un ajuste seguro y cómodo.", "alta calidad"],
+	  "precio": 7900
+	},
+	{
+	  "prod_id": 2,
+	  "destacado": true,
+	  "categoria": "Digital",
+	  "marca":"nixon",
+	  "sexo":"hombre",
+	  "nombre": "Base All Gold",
+	  "imagen": "nixon-dorado.jpg",
+	  "alt":"Reloj nixon digital Base all Gold",
+	  "descripcion":
+		"Las curvas y los contornos retro otorgan al Base un aspecto vintage, pero con toques modernos propios de la era digital. Reminiscencias de una época en la que los viajes en el tiempo parecían posibles e incluso probables.<br/> Entre sus caracteristicas se encuentran, Calendario totalmente digital, hora doble, Timer, Cuenta atrás y cronografo. Caja de acero inoxidable especial con botones con junta de policarbonato moldeados y botones atornillados de acero inoxidable.Correa fina de 5 eslabones y cierre a presión de acero inoxidable.",
+		"caracteristicas":["Calendario totalmente digital", "hora doble" , "Cuenta atrás","luz en una esfera con pantalla LCD negativa","Su sumergibilidad de 100 m/10 ATM te permite pasar de seco a mojado con total confianza y seguridad.","Malla fina de 5 eslabones y cierre a presión de acero inoxidable"],
+	  "precio": 21000
+	},
+	{
+	  "prod_id": 3,
+	  "destacado": true,
+	  "categoria": "Analogico",
+	  "marca":"nixon",
+	  "sexo":"hombre",
+	  "nombre": "Leather Antique Silver",
+	  "imagen": "nixon-cuero.jpg",
+	  "alt":"Reloj Nixon Chrono Leather Antique Silver",
+	  "descripcion":"Con su atractivo diseño de facil lectura, acompañando a la familia del 51-30, este modelo, cuenta con una caja hecha en acero inoxidable, con cristal mineral endurecido.  La combinacion de estilo, inteligencia y fuerza del reloj 48-20 es insuperable.<br/> La corona y los botones se ubican a las 9 en punto de la caja en vez de las 3 en punto para evitar posibles molestias en la muñeca durante cualquier tipo de actividad por intensa que sea.<br/> Bisel giratorio unidireccional para contador analógico de cuenta atrás. Cronómetro de 6 agujas, esfera secundaria de 24 horas, indicador de segundos impreso y ventana de fecha a las 4 en punto.",
+ 
+		"caracteristicas":["Mecanismo de cuarzo japonés Miyota de 6 agujas con corona situada a las 9 en punto", "Tres agujas indicadoras de hora, minutos y segundos de la hora normal y segundos del crono", "Cristal mineral duro","200 metros resistente al agua /20ATM, te permite pasar de seco a mojado con total confianza y seguridad.","Corona y pulsadores roscados"],
+	  "precio": 46000
+	},
+	{
+	  "prod_id": 4,
+	  "destacado": true,  
+	  "categoria": "Digital",
+	  "marca":"Casio",
+	  "sexo":"mujer",
+	  "nombre": "LA11WL-7A",
+	  "imagen": "casio-digital.jpg",
+	  "alt":"Reloj Casio LA11WL-7A",
+	  "descripcion":
+		"Valor y estilo chocan con este nuevo reloj para mujer. Ofreciendo una correa de cuero sintético, cronómetro y temporizador de cuenta regresiva, este modelo es un complemento perfecto para cualquier atuendo.",
+		"caracteristicas":["Alarma diaria", "Resistente al agua", "Contador regresivo"],
+	  "precio": 12000
+	},
+	{
+	  "prod_id": 5,
+	  "destacado": false,
+	  "categoria": "Digital",
+	  "marca":"Casio",
+	  "sexo":"mujer",
+	  "nombre": "A1000MG-9VT",
+	  "imagen": "casio-vintage-digital.jpg",
+	  "alt":"Reloj Casio  A1000MG-9VT",
+	  "descripcion":
+		" CASIO lanza el nuevo reloj vintage digital de acero inoxidable con baño de iones de oro A1000MG-9BVT con esfera de nácar. Las características adicionales incluyen alarma diaria, super luz LED y banda milanesa de fácil ajuste.",
+		"caracteristicas":["Vidrio mineral", "Super led de luz", "Resistente al agua", "Acero inoxidable"],
+	  "precio": 18000
+	},
+	{
+	  "prod_id": 6,
+	  "destacado": false,
+	  "categoria": "Sport",
+	  "marca":"Casio",
+	  "sexo":"mujer",
+	  "nombre": "LW204-4A",
+	  "imagen": "casio-sport.jpg",
+	  "alt":"Reloj Casio LW204-4A",
+	  "descripcion":
+		"CASIO lanza un nuevo estilo de barril vintage LW204. Este reloj completamente negro viene equipado con un cronómetro de 1/100 segundos, temporizador de cuenta regresiva, alarma multifunción, calendario automático, resistencia al agua de 50 metros y retroiluminación LED.",
+		"caracteristicas":["Cronómetro de 1/1000 segundos", "Luz de fondo LED", "50M resistente al agua"],
+	  "precio": 15000
+	},
+	{
+	  "prod_id": 7,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Tommy Hilfiger ",
+	  "sexo":"mujer",
+	  "nombre": "Thess TH1782251 ",
+	  "imagen": "tomy-m-rosa.jpg",
+	  "alt":"Reloj Tommy Hilfiger Thess TH1782251 ",
+	  "descripcion":
+		"Reloj Tommy Hilfiger Mujer 1782251, femenino y moderno, con caja de acero rosé de 35mm y correa de silicona rosa con delicado motivo floral. Es resistente al agua hasta 3 ATM / 30 metros.",
+		"caracteristicas":["Correo de silicona","acero inoxidable","resistente al agua"],
+	  "precio": 21588
+	},
+	{
+	  "prod_id": 8,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Tommy Hilfiger ",
+	  "sexo":"hombre",
+	  "nombre": "Easton TH1710433 ",
+	  "imagen": "tomy-acero.jpg",
+	  "alt":"Reloj Tommy hilfiger Easton TH1710433 ",
+	  "descripcion":
+		"Reloj Tommy Hilfiger 1782244. Reloj de mujer Tommy Hilfiger 1782244 . Con este modelo de la colección Alex tendrás un look moderno y juvenil , su correa de acero regulable y su esfera rosa con índices haciendo juego serán un complemento que te hará brillar a donde vayas.<br/> Sumergibilidad 3 ATM (30 Mts) Diámetro de la caja: 40 mm",
+		"caracteristicas":[ "Ajuste mesh", "acero inoxidable","resistente al agua"],
+	  "precio": 35000
+	},
+	{
+	  "prod_id": 9,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Tommy Hilfiger ",
+	  "sexo":"hombre",
+	  "nombre": "Barclay TH1791716 ",
+	  "imagen": "tomy-cuero.jpg",
+	  "alt":"Reloj Tommy Hilfiger Barclay TH1791716 ",
+	  "descripcion":
+		"Reloj Tommy Hilfiger de Hombre 1791614 de la familia DANE clásico y moderno. Diseño ultradelgados de 40 mm de acero inoxidable, acero inoxidable plateado y dial negro. Cuenta con marcadores de hora en índice y logotipo de Tommy Hilfiger a las 12:00. Resistente al agua hasta 3 ATM / 30 metros.",
+		"caracteristicas":["Acero onixidable", "Crital mineral", "Resistente al agua"],
+		"precio": 42000
+	},
+	{
+	  "prod_id": 10,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Swatch",
+	  "sexo":"hombre",
+	  "nombre": "CAMOUFOREST",
+	  "imagen": "swatch-camuflado.jpg",
+	  "alt":"Reloj Swatch",
+	  "descripcion":
+		"RELOJ SWATCH CAMOUFOREST (SUOG114) reinterpreta el estampado de camuflaje clásico con efecto metalizado en la correa. El mismo estampado verde es visible en la esfera.",
+		"caracteristicas":["Correa de silocona", "resistente al agua", "Cuarzo"],
+		"precio": 14380
+	},
+	{
+	  "prod_id": 11,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Swatch",
+	  "sexo":"unisex",
+	  "nombre": "BIG BOLD JELLYFISH",
+	  "imagen": "swatch-transparente.jpg",
+	  "alt":"Reloj Swatch BIG BOLD JELLYFISH",
+	  "descripcion":
+		"Reloj SWATCH BIG BOLD JELLYFISH (SO27E100) es la nueva creación de la familia BIG BOLD. Nacido con un diseño único, marcando una era en la que puedes expresar tu personalidad, tan clara como sea posible.<br/> Con una esfera de 47 mm totalmente transparente y una correa de silicona semitransparente, puede realizar un seguimiento discreto de reuniones demasiado largas y fechas tediosas de los viernes por la noche, sin ofender a nadie.<br/> Las llamativas flechas azules, rojas y amarillas marcan el momento de decir lo que piensas en voz alta sin hacer un solo sonido. Excepto el tictac, el que amamos. Material del cierre de la correa Aluminio. Resistente al agua 3 ATM (30 M)",
+		"caracteristicas":["Correa de silocona", "resistente al agua", "Cuarzo"],
+		"precio": 18000
+	},
+	{
+	  "prod_id": 12,
+	  "destacado": false,
+	  "categoria": "Analogico",
+	  "marca":"Swatch",
+	  "sexo":"hombre",
+	  "nombre": "SPEED UP SWYVS441G",
+	  "imagen": "swatch-acero.jpg",
+	  "alt":"Reloj  Swatch SPEED UP SWYVS441G",
+	  "descripcion":
+		"Mejora tu estilo con SPEED UP (YVS441G), que combina deportividad y elegancia en un modelo elegante. <br/>Con una esfera negra cepillada al sol con impresión en blanco, tiene los beneficios adicionales de una ventana de fecha a las 4:30 y manos con superluminova. Un acero inoxidable pulido con bisel de PVD negro está grabado y relleno de color blanco, y está alojado en una caja de acero inoxidable pulido.<br/> Dando la impresión de una larga franja negra de carreras, la pulsera está hecha de acero inoxidable pulido ajustable con enlaces intermedios de resina negra.",
+		"caracteristicas":["Correa acero inoxidable", "resistente al agua ", "cuarzo"],
+	  "precio": 51000
+	}
+ ]
+ 
